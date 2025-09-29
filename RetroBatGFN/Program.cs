@@ -17,11 +17,9 @@ namespace RetroBatGFN
         static string globalMainDirectory = "";
         private static string currentPath = Directory.GetCurrentDirectory();
 
-        // Import the FindWindow function from user32.dll
         [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Auto)]
         private static extern IntPtr FindWindow(string lpClassName, string lpWindowName);
 
-        // Import the PostMessage function from user32.dll
         [DllImport("user32.dll", SetLastError = true)]
         [return: MarshalAs(UnmanagedType.Bool)]
         private static extern bool PostMessage(IntPtr hWnd, uint Msg, IntPtr wParam, IntPtr lParam);
@@ -249,6 +247,8 @@ namespace RetroBatGFN
                         {
                             Process.Start(exePath);
                             Process.Start(taskbarFixerPath);
+
+                            Thread.Sleep(2000); // Sleeping a little to let WinXShell initialize
                         }
                     }
                     else
@@ -265,7 +265,6 @@ namespace RetroBatGFN
             }
         }
 
-        // Root myDeserializedClass = JsonConvert.DeserializeObject<List<Root>>(myJsonResponse);
         public class RetroBatConfig
         {
             public string retroBatLink { get; set; }
