@@ -4,7 +4,7 @@
 
 **It is recommended using the installer only if you have a premium Geforce NOW subscription along side any amount of persistant storage, withouth persistant storage nothing will get saved.**
 
-**In order to use it you must replace steam game exe with RetroBatGFN and start the game, go through the install and after that you can restart the session, whenever you start the game session you chose to use RetroBatGFN with it will start and install miscellaneous software if required and then open RetroBat, exit RetroBat and you have a desktop mode in which you have all software requird to do to customizing to RetroBat add games to RetroBat**
+**In order to use it you must replace steam game exe with RetroBatGFN and start the game, go through the install and after that you can restart the session, whenever you start the game session you chose to use RetroBatGFN with it will start and install miscellaneous software if required and then open RetroBat, exit RetroBat and you have a desktop mode in which you have all software requird to do to customizing to RetroBat add games to RetroBat.**
 
 **I am not responsible for any consequences that may happen from using RetroBatGFN. Use it at your own risk.**
 
