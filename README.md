@@ -4,6 +4,8 @@
 
 **It is recommended using the installer only if you have a premium Geforce NOW subscription along side any amount of persistant storage, withouth persistant storage nothing will get saved.**
 
+**In order to use it you must replace steam game exe with RetroBatGFN and start the game, go through the installation and after that you can restart the session, whenever you start the session RetroBatGFN will start and install miscellaneous if required and then open RetroBat**
+
 **I am not responsible for any consequences that may happen from using RetroBatGFN. Use it at your own risk.**
 
 <img width="1920" height="1080" alt="GeForceNOW_YgXn9TVZxf" src="https://github.com/user-attachments/assets/2769fba7-fb9e-4b37-aec6-a0e0dac78f5f" />
