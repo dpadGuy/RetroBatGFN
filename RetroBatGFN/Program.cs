@@ -247,8 +247,6 @@ namespace RetroBatGFN
                         {
                             Process.Start(exePath);
                             Process.Start(taskbarFixerPath);
-
-                            Thread.Sleep(2000); // Sleeping a little to let WinXShell initialize
                         }
                     }
                     else
