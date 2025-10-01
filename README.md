@@ -8,7 +8,7 @@
 
 **I am not responsible for any consequences that may happen from using RetroBatGFN. Use it at your own risk.**
 
-**RetroBatGFN has no affiliation with the RetroBat team or Nvidia, it is just a simple installer made for Geforce NOW!**
+**RetroBatGFN has no affiliation with the RetroBat team or Nvidia, it is just a simple installer made for Geforce NOW.**
 
 <img width="1920" height="1080" alt="GeForceNOW_YgXn9TVZxf" src="https://github.com/user-attachments/assets/2769fba7-fb9e-4b37-aec6-a0e0dac78f5f" />
 
