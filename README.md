@@ -8,6 +8,8 @@
 
 **I am not responsible for any consequences that may happen from using RetroBatGFN. Use it at your own risk.**
 
+**RetroBatGFN has no affiliation with the RetroBat team or Nvidia, it is just a simple installer made for Geforce NOW !**
+
 <img width="1920" height="1080" alt="GeForceNOW_YgXn9TVZxf" src="https://github.com/user-attachments/assets/2769fba7-fb9e-4b37-aec6-a0e0dac78f5f" />
 
 <img width="1920" height="1080" alt="GeForceNOW_f8tGWqOVT4" src="https://github.com/user-attachments/assets/9c58c068-4dab-498d-8844-08946c772b5b" />
@@ -17,3 +19,6 @@
 ![GeForceNOW_zLDGZJrzcN](https://github.com/user-attachments/assets/4fcfe8df-05dd-4c0f-8e64-442c56cbec5b)
 
 **If you find any issues errors or anything like that related only to RetroBatGFN you can open an issue and i will gladly read it.**
+
+RetroBat Website: https://www.retrobat.org/
+RetroBat Documentation: https://wiki.retrobat.org/
