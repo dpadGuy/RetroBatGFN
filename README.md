@@ -18,7 +18,7 @@
 
 ![GeForceNOW_zLDGZJrzcN](https://github.com/user-attachments/assets/4fcfe8df-05dd-4c0f-8e64-442c56cbec5b)
 
-**If you find any issues errors or anything like that related only to RetroBatGFN you can open an issue and i will gladly read it.**
+**If you find any issues errors or anything like that related only to RetroBatGFN you can open an issue and i will gladly try to help !**
 
 **RetroBat Website: https://www.retrobat.org/**
 
