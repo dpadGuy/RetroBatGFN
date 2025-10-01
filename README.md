@@ -2,7 +2,7 @@
 
 **RetroBatGFN is a RetroBat installer fully made in C# that gives you the ability of emulating your favourite game consoles on Geforce NOW withouth the need of powerful hardware. (Only for I2P game sessions with persistant storage !)**
 
-**In order to use the installer you must have a premium Geforce NOW subscription along side any amount of persistant storage, withouth persistant storage nothing will get saved.**
+**In order to use the installer you must have a premium Geforce NOW subscription along side any amount of persistent storage, withouth persistent storage nothing will get saved.**
 
 **To use it you must replace steam game exe with RetroBatGFN and start the game, go through the install and after that you can restart the session, whenever you start the game session you chose to use RetroBatGFN with it will start and install miscellaneous software if required and then open RetroBat, exit RetroBat and you have a desktop mode in which you have all software required to do customizing to RetroBat add games/emulators/bioses to RetroBat.**
 
