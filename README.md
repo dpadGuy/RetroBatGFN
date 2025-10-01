@@ -20,5 +20,6 @@
 
 **If you find any issues errors or anything like that related only to RetroBatGFN you can open an issue and i will gladly read it.**
 
-RetroBat Website: https://www.retrobat.org/
-RetroBat Documentation: https://wiki.retrobat.org/
+**RetroBat Website: https://www.retrobat.org/**
+
+**RetroBat Documentation: https://wiki.retrobat.org/**
